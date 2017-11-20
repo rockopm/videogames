@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import urllib2 as ul   # https://docs.python.org/2/library/urllib2.html
 # import requests as req
